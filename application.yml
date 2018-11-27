@@ -15,7 +15,7 @@ words: ran,knew,had,saw,bought
 
 ---
 spring:
-  profiles: lab-4-conj
+  profiles: conj
 words: a,the
 
 ---
